@@ -17,9 +17,8 @@
 
 ## About Me 👋
 
-- 🎓 Computer Science student at [Simon Fraser University](https://www.sfu.ca/).
-- 🏀 Student-athlete competing in NCAA Division 2 basketball. Check out my [roster entry](https://athletics.sfu.ca/sports/mens-basketball/roster/kemo-sonko/6134).
-- 👨‍💻 Actively seeking new grad or internship Software Engineer roles.
+- 🎓 Computer Science Graduate from [Simon Fraser University](https://www.sfu.ca/).
+- 🏀 Former Student-athlete NCAA Division 2. Check out my [roster entry](https://athletics.sfu.ca/sports/mens-basketball/roster/kemo-sonko/6134).
 
 ## Experience 💼
 
