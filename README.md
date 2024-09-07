@@ -22,6 +22,7 @@
 
 ## Experience 💼
 
+- Currently an Associate Software Engineer at [Infoblox](https://www.linkedin.com/company/infoblox/)
 - 4 months as a Software Engineer Intern at [Diligent](https://www.linkedin.com/company/diligent-board-member-services/).
 - 8 months as a Software Engineer Intern at [Apollo Insurance](https://www.linkedin.com/company/apolloinsurance/).
 - 4 months as a Quality Assurance Developer Intern at [Later](https://www.linkedin.com/company/later-official/).
@@ -39,6 +40,8 @@
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40"/><br><sub>Redux</sub></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br><sub>React</sub></td>
     <td align="center"><img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="60" height="40"/><br><sub>React Native</sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40"/><br><sub>Golang</sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/><br><sub>Python</sub></td>
   </tr>
   <tr>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/><br><sub>CSS3</sub></td>
@@ -50,6 +53,8 @@
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br><sub>PostgreSQL</sub></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/><br><sub>Jira</sub></td>
     <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" width="40" height="40"/><br><sub>Confluence</sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/><br><sub>Kubernetes</sub></td>
+    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/><br><sub>Jenkins</sub></td>
   </tr>
 </table>
 
