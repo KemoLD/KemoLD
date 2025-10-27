@@ -22,7 +22,8 @@
 
 ## Experience 💼
 
-- Currently an Associate Software Engineer at [Infoblox](https://www.linkedin.com/company/infoblox/)
+- Currently a Software Engineer II at [Infoblox](https://www.linkedin.com/company/infoblox/)
+- 1 year 5 months as a Software Engineer at [Infoblox](https://www.linkedin.com/company/infoblox/)
 - 4 months as a Software Engineer Intern at [Diligent](https://www.linkedin.com/company/diligent-board-member-services/).
 - 8 months as a Software Engineer Intern at [Apollo Insurance](https://www.linkedin.com/company/apolloinsurance/).
 - 4 months as a Quality Assurance Developer Intern at [Later](https://www.linkedin.com/company/later-official/).
